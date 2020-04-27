@@ -36,7 +36,7 @@ def sum_array(array)
   sum
 end
 
-
+["hand","feet", "knee", "table"])).to eq(["hands","feet", "knees", "tables"]
 def add_s(array)
   array.each do |word| 
   if array[1] == word
